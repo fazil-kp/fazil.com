@@ -25612,6 +25612,7 @@ a5X:function a5X(a){this.a=a},
 a5Y:function a5Y(a){this.a=a},
 K7:function K7(a){this.a=a},
 Lf:function Lf(a){this.a=a},
+alc:function alc(){},
 iX:function iX(a,b,c){var _=this
 _.a=0
 _.b=a
@@ -25620,7 +25621,6 @@ _.K$=0
 _.a3$=c
 _.av$=_.aL$=0
 _.aD$=!1},
-alc:function alc(){},
 aDR(a,b,c){var s,r,q=null,p=A.b([],t.NK),o=t.WK,n=A.e0(q,q,q,o,o),m=A.e0(q,q,q,t.gw,t.IU),l=c==null,k=l?0:c.d+1,j=A.b([],t.BF),i=!l
 if(i)B.b.L(j,c.z)
 o=A.z(o,t.Kc)
@@ -81575,10 +81575,10 @@ p=A.dw("Services",q,q,p==null?q:p.fK(B.i,20,B.as))
 s=A.ff(10)
 r=A.a4(a).p2.z
 return new A.oH(A.ea(A.b([new A.bO(B.dH,p,q),s,new A.bO(B.f0,A.dw("I provide various services like Flutter Development, Web Development, Mobile App Development, and many more. I have worked on various projects and have a good understanding of the Flutter framework.",q,q,r==null?q:r.fK(B.i,14,B.m)),q)],t.p),B.aB,B.aa,B.a2),q)}}
-A.iX.prototype={}
 A.alc.prototype={
 $1(a){return new A.iX(A.b(["About Me","Services","Projects","Contact"],t.s),A.az(["About",!1,"Services",!1,"Projects",!1,"Contact",!1],t.N,t.y),$.ap())},
 $S:504}
+A.iX.prototype={}
 A.Fn.prototype={}
 A.mL.prototype={
 a2c(){var s,r,q,p,o=this,n=null,m=o.a
